@@ -1,0 +1,28 @@
+.activeContainer {
+  display: flex;
+  align-items: center;
+}
+
+.activeItem {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px 5px 5px 0;
+  background: #33218E;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.activeContainer img {
+  padding-left: 10px;
+}
+
+.activeContainer {
+  display: flex;
+}
+
+.textContainer h1 {
+  color: #33218E;
+  margin-bottom: 0px;
+  font-size: 20px;
+}

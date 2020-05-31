@@ -1,0 +1,27 @@
+{
+  "name": "realtime-chat-application",
+  "version": "1.0.0",
+  "description": "realtime-chat-aplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crzdvl/Realtime-Chat-Application.git"
+  },
+  "author": "crzdvl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crzdvl/Realtime-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/crzdvl/Realtime-Chat-Application#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
